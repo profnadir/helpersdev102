@@ -1,0 +1,27 @@
+.alert{
+    padding: 25px;
+    border-left: 5px solid black;
+    border-radius: 5px;
+    box-shadow: 2px 2px 10px black;
+    margin-bottom: 20px;
+}
+
+.alert-default{
+    background-color: lightgrey;
+   
+}
+
+.alert-success{
+    background-color: lightgreen;
+
+}
+
+.alert-danger{
+    background-color: lightcoral;
+  
+}
+
+.alert-warning{
+    background-color: lightsalmon;
+
+}

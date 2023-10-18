@@ -1,0 +1,17 @@
+.btn-success{
+    background-color: green;
+    padding: 10px;
+}
+
+.btn-success:hover{
+    opacity: 0.7;
+}
+
+.btn-danger{
+    background-color: red;
+    padding: 10px;
+}
+
+.btn-danger:hover{
+    opacity: 0.7;
+}
